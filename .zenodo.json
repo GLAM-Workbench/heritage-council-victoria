@@ -5,7 +5,7 @@
   "related_identifiers": [
     {
       "scheme": "url",
-      "identifier": "https://github.com/GLAM-Workbench/heritage-council-victoria/tree/v0.0.0",
+      "identifier": "https://github.com/GLAM-Workbench/heritage-council-victoria/tree/v1.0.0",
       "relation": "isDerivedFrom",
       "resource_type": "software"
     },
@@ -22,7 +22,7 @@
       "resource_type": "other"
     }
   ],
-  "version": "v0.0.0",
+  "version": "v1.0.0",
   "upload_type": "software",
   "keywords": [
     "digital humanities",
@@ -32,12 +32,12 @@
   "publication_date": "2022-06-06",
   "creators": {
     "creator_list": [
-        {
-            "name": "Harrop, Mitchell",
-            "orcid": ""
-        }
+      {
+        "name": "Harrop, Mitchell",
+        "orcid": ""
+      }
     ]
-},
+  },
   "access_right": "open",
-  "description": ""
+  "description": "<p>Current version: <a href=\"https://github.com/GLAM-Workbench/heritage-council-victoria/releases/tag/v1.0.0\">v1.0.0</a></p> <p>A collection of examples using the <a href=\"https://api.heritagecouncil.vic.gov.au/documentation\">Victorian Heritage Database API</a>. For more information see the <a href=\"https://glam-workbench.net/heritage-council-of-victoria/\">Heritage Council of Victoria</a> section of the GLAM Workbench.</p> <h2 id=\"notebook-topics\">Notebook topics</h2> <ul> <li>Introduction to the Victorian Heritage Database API</li> </ul> <hr /> <p>This repository is part of the <a href=\"https://glam-workbench.github.io/\">GLAM Workbench</a>.</p>"
 }
