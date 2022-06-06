@@ -1,14 +1,12 @@
 # Heritage Council of Victoria
 
-Current version: [v0.0.0](https://github.com/GLAM-Workbench/heritage-council-victoria/releases/tag/v0.0.0)
+Current version: [v1.0.0](https://github.com/GLAM-Workbench/heritage-council-victoria/releases/tag/v1.0.0)
 
-A collection of examples using the Victorian Heritage Database API. For more information see the [Heritage Council of Victoria](https://glam-workbench.net/heritage-council-of-victoria/) section of the GLAM Workbench.
+A collection of examples using the [Victorian Heritage Database API](https://api.heritagecouncil.vic.gov.au/documentation). For more information see the [Heritage Council of Victoria](https://glam-workbench.net/heritage-council-of-victoria/) section of the GLAM Workbench.
 
 ## Notebook topics
 
-* [Notebook title](notebook.ipynb) – this notebook does things
-
-See the [GLAM Workbench for more details](https://glam-workbench.github.io/heritage-council-of-victoria/).
+* [Introduction to the Victorian Heritage Database API](introduction_victorian_heritage_api.ipynb)
 
 
 <!-- START RUN INFO -->
@@ -73,9 +71,6 @@ See the [GLAM Workbench for [more details](https://glam-workbench.net/getting-st
 
 <!-- END RUN INFO -->
 
-## Cite as
-
-See the GLAM Workbench or [Zenodo](https://doi.org/10.5281/zenodo.3521724) for up-to-date citation details.
 
 ----
 
