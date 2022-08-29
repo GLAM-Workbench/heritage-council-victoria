@@ -5,7 +5,7 @@
   "related_identifiers": [
     {
       "scheme": "url",
-      "identifier": "https://github.com/GLAM-Workbench/heritage-council-victoria/tree/v1.0.1",
+      "identifier": "https://github.com/GLAM-Workbench/heritage-council-victoria/tree/v1.1.0",
       "relation": "isDerivedFrom",
       "resource_type": "software"
     },
@@ -22,20 +22,24 @@
       "resource_type": "other"
     }
   ],
-  "version": "v1.0.1",
+  "version": "v1.1.0",
   "upload_type": "software",
   "keywords": [
     "digital humanities",
     "Jupyter",
     "GLAM Workbench"
   ],
-  "publication_date": "2022-06-08",
+  "publication_date": "2022-08-29",
   "creators": [
     {
       "name": "Harrop, Mitchell",
       "orcid": "0000-0001-9652-7808"
+    },
+    {
+      "name": "Doyle, Kim",
+      "orcid": "0000-0002-9429-7188"
     }
   ],
   "access_right": "open",
-  "description": "<p>Current version: <a href=\"https://github.com/GLAM-Workbench/heritage-council-victoria/releases/tag/v1.0.1\">v1.0.1</a></p> <p>A collection of examples using the <a href=\"https://api.heritagecouncil.vic.gov.au/documentation\">Victorian Heritage Database API</a>. For more information see the <a href=\"https://glam-workbench.net/heritage-council-of-victoria/\">Heritage Council of Victoria</a> section of the GLAM Workbench.</p> <h2 id=\"notebook-topics\">Notebook topics</h2> <ul> <li>Introduction to the Victorian Heritage Database API</li> </ul> <hr /> <p>This repository is part of the <a href=\"https://glam-workbench.github.io/\">GLAM Workbench</a>.</p>"
+  "description": "<p>Current version: <a href=\"https://github.com/GLAM-Workbench/heritage-council-victoria/releases/tag/v1.1.0\">v1.1.0</a></p> <p>A collection of examples using the <a href=\"https://api.heritagecouncil.vic.gov.au/documentation\">Victorian Heritage Database API</a>. For more information see the <a href=\"https://glam-workbench.net/heritage-council-of-victoria/\">Heritage Council of Victoria</a> section of the GLAM Workbench.</p> <h2 id=\"notebook-topics\">Notebook topics</h2> <ul> <li>Introduction to the Victorian Heritage Database API</li> <li>Shipwrecks in the Victorian Heritage Database – explores what you can discover about shipwrecks using the Victorian Heritage Database API</li> </ul> <hr /> <p>This repository is part of the <a href=\"https://glam-workbench.github.io/\">GLAM Workbench</a>.</p>"
 }

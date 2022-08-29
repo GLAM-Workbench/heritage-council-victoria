@@ -1,12 +1,13 @@
 # Heritage Council of Victoria
 
-Current version: [v1.0.1](https://github.com/GLAM-Workbench/heritage-council-victoria/releases/tag/v1.0.1)
+Current version: [v1.1.0](https://github.com/GLAM-Workbench/heritage-council-victoria/releases/tag/v1.1.0)
 
 A collection of examples using the [Victorian Heritage Database API](https://api.heritagecouncil.vic.gov.au/documentation). For more information see the [Heritage Council of Victoria](https://glam-workbench.net/heritage-council-of-victoria/) section of the GLAM Workbench.
 
 ## Notebook topics
 
 * [Introduction to the Victorian Heritage Database API](introduction_victorian_heritage_api.ipynb)
+* [Shipwrecks in the Victorian Heritage Database](shipwrecks.ipynb) – explores what you can discover about shipwrecks using the Victorian Heritage Database API
 
 
 <!-- START RUN INFO -->
