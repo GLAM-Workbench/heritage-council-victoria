@@ -72,6 +72,9 @@ See the [GLAM Workbench for more details](https://glam-workbench.net/getting-sta
 
 <!-- END RUN INFO -->
 
+## Cite as
+
+See the [GLAM Workbench](https://glam-workbench.net/heritage-council-of-victoria/#cite-as) or [Zenodo](https://doi.org/10.5281/zenodo.6622312) for up-to-date citation details.
 
 ----
 
